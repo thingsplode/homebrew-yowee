@@ -1,6 +1,6 @@
 cask "yowee" do
-  version "1.1.0"
-  sha256 "2c7a8bc0b2cdb68624ea90c0efb66a5554cf8aafb6c5b544d51a1131910bdf28"
+  version "1.2.0"
+  sha256 "0ee620615e4c45b5b7ae6aa8385116247b92b41888c9c94ad32c07fbdacdcc2a"
 
   url "https://github.com/thingsplode/yowee/releases/download/v#{version}/yowee-#{version}.dmg"
   name "yowee"
